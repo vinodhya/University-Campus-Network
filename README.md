@@ -1,6 +1,6 @@
 # University Campus Network Design & Implementation
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is a **multi-campus university network** designed and implemented using **Cisco Packet Tracer**.
 
@@ -8,7 +8,7 @@ The network connects two university campuses located at different locations. The
 
 The project was built from scratch to understand and demonstrate practical networking concepts such as VLANs, trunking, inter-VLAN routing, DHCP, dynamic routing, and network services.
 
-## 🏫 Network Structure
+##  Network Structure
 
 ### Main Campus
 - Administration
@@ -27,7 +27,7 @@ The project was built from scratch to understand and demonstrate practical netwo
 ### External Services
 - External Email Server
 
-## 🛠️ Technologies & Concepts Used
+##  Technologies & Concepts Used
 
 - Cisco Packet Tracer
 - VLANs
@@ -41,7 +41,7 @@ The project was built from scratch to understand and demonstrate practical netwo
 - Network Connectivity Testing
 - Basic Network Troubleshooting
 
-## 🌐 VLAN & IP Addressing
+##  VLAN & IP Addressing
 
 | VLAN | Department / Network | Network Address | Gateway |
 |------|----------------------|-----------------|---------|
@@ -56,7 +56,7 @@ The project was built from scratch to understand and demonstrate practical netwo
 | 90 | Branch Staff | 192.168.9.0/24 | 192.168.9.1 |
 | 100 | Branch Student Labs | 192.168.10.0/24 | 192.168.10.1 |
 
-## 🔧 Main Configurations
+##  Main Configurations
 
 ### VLAN Configuration
 Separate VLANs were created for each department and student laboratory network to logically separate network traffic.
@@ -76,7 +76,7 @@ RIPv2 was implemented to provide dynamic routing between the main campus, branch
 ### Email Server
 An external email server was configured using SMTP and POP3 services. Email communication was tested successfully between configured accounts.
 
-## 🧪 Network Testing
+##  Network Testing
 
 The network was tested using:
 
@@ -87,7 +87,7 @@ The network was tested using:
 - Email sending and receiving tests
 - Router routing table verification
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Understand the design of a multi-campus network.
 - Practise VLAN segmentation and trunking.
@@ -96,13 +96,13 @@ The network was tested using:
 - Configure and test network services.
 - Develop practical Cisco networking and troubleshooting skills.
 
-## 📂 Project File
+##  Project File
 
 The Cisco Packet Tracer project file is included in this repository:
 
 `University_Campus_Network.pkt`
 
-## 👩‍💻 Author
+##  Author
 
 **Vinodhya Matharaarachchi**
 
