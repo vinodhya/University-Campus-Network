@@ -96,15 +96,3 @@ The network was tested using:
 - Configure and test network services.
 - Develop practical Cisco networking and troubleshooting skills.
 
-##  Project File
-
-The Cisco Packet Tracer project file is included in this repository:
-
-`University_Campus_Network.pkt`
-
-##  Author
-
-**Vinodhya Matharaarachchi**
-
-University Networking Project  
-Cisco Packet Tracer
